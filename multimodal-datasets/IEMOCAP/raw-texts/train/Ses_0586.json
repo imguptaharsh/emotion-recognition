@@ -1,0 +1,8 @@
+{
+  "Utterance": "End because I don't think Billy Elliot",
+  "StartTime": 1234,
+  "EndTime": 1238,
+  "Emotion": "neutral",
+  "Speaker": "Speaker 2",
+  "SessionID": "Ses01"
+}

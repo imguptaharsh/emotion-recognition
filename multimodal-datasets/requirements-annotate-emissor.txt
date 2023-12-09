@@ -1,0 +1,13 @@
+coolname
+joblib
+jsonpickle
+numpy
+Pillow
+tqdm
+python-on-whales
+requests
+scipy
+black
+isort
+mdformat
+flake8
